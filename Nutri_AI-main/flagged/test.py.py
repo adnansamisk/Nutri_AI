@@ -1,7 +1,7 @@
 import openai
 import gradio
 
-openai.api_key = "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"
+openai.api_key = "sk-"
 
 messages = [{"role": "system", "content": "You are a personal Nutritional assistant for everyday diet planning with BMI"}]
 
